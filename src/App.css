@@ -1,0 +1,59 @@
+
+
+h2{
+  color:red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align:centre;
+  background-color:bisque;
+  font-size: 50px;
+}
+
+
+
+.input-info{
+  border: 2px;
+  padding:10px;
+  border-style: dashed;
+  border-color: #ff0000;
+  text-align: left;
+  background-color: bisque;
+}
+
+.App{
+  text-align: center;
+  background-color:bisque;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: red;
+}
+
+label{
+  text-align: left;
+  padding: 15px;
+}
+
+::placeholder{
+  color:grey;
+  font-style: italic;
+}
+
+input{
+  align-items: end;
+  text-align: left;
+  margin-right:0px;
+  padding: 15px;
+  font-size: 35px;
+}
+
+.button{
+  background-color:red;
+  color:white;
+  padding:15px;
+  margin: 15px;
+}
+
+

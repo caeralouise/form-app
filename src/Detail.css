@@ -1,0 +1,16 @@
+.details{
+    border: 2px;
+    padding:10px;
+    border-style: dashed;
+    border-color: #ff0000;
+    text-align: left;
+    background-color: bisque;
+}
+
+h2{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:centre;
+    background-color:bisque;
+    font-size: 50px;
+}
